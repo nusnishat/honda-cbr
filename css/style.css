@@ -66,12 +66,6 @@ span{
 .news a{
     text-decoration: none;
 }
-.video{
-    background-color: rgb(248, 245, 245)
-}
-video{
-    width:100%;
-}
 /* guide section style */
 .guide-description{
     margin-top: 100px;
