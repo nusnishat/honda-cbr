@@ -13,7 +13,7 @@ header .btn{
     background-color: #E76F51
 }
 .welcome-description{
-    margin-top: 100px;
+    margin-top: 5%;
     margin-bottom: 100px;
 }
 /* main */
@@ -51,6 +51,27 @@ span{
 .happy-clients i{
     color: #E77C40;
 }
+/* news section style */
+.news{
+    background-color: rgb(248, 245, 245)
+}
+.news-video h1{
+    display: inline;
+    background-color: #E77C40;
+    position: relative;
+    left:;
+    padding: 0 10px;
+}
+
+.news a{
+    text-decoration: none;
+}
+.video{
+    background-color: rgb(248, 245, 245)
+}
+video{
+    width:100%;
+}
 /* guide section style */
 .guide-description{
     margin-top: 100px;
@@ -66,6 +87,7 @@ span{
     width: 100%;
     position: relative;
 }
+
 /* footer style */
 footer span{
     color: white;
