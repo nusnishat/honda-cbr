@@ -1,0 +1,68 @@
+.body-container{
+    margin: 0 5% ;
+}
+/* header style */
+header{
+    background-color:#264653;
+}
+header .btn{
+    background-color: #E76F51
+}
+.welcome-description{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+/* main */
+/* featured style */
+.featured p{
+    color: #E76F51;
+}
+.featured img{
+    Width :288px;
+    Height :243px;
+}
+.image-grayscale img{
+    filter: grayscale(100);
+}
+/* latest news style */
+.btn-full{
+    background-color: #E76F51;
+    color: white;
+}
+.btn-outline{
+    border: 1px solid #E76F51;
+    color: #E76F51;
+}
+/* happy clients */
+span{
+    color: #E76F51;;
+}
+.happy-clients img{
+    width: 149px;
+    height: 149px;
+}
+.image-circle{
+    clip-path: circle();
+}
+.happy-clients i{
+    color: #E77C40;
+}
+/* guide section style */
+.guide-description{
+    margin-top: 100px;
+}
+.guide .btn{
+    background-color: #E76F51
+}
+.guide-book{
+    width: 21rem;
+    height: 27rem;
+}
+.guide-book img{
+    width: 100%;
+    position: relative;
+}
+/* footer style */
+footer span{
+    color: white;
+}
